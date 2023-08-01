@@ -15,7 +15,7 @@ int i = n;
 for (; r < i; r++)
 {
 dest[r] = src[r];
-n--;             
+n--;
 }
 return (dest);
 }
